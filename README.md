@@ -9,3 +9,4 @@ Update the readme
 another readme for 0x01.git
 ALX is so cool
 >>>>>>> 096550ae226f648d79da02644fee6ba95c7dd6f2
+Jomi
